@@ -1,5 +1,5 @@
 # Activity: Web Security Workshop
-## Instructions for Participants:
+## Instructions:
 
 1. Fork the provided repository with this insecure Django application.
 2. Analyze the code for vulnerabilities.
