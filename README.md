@@ -1,4 +1,4 @@
-# Activity: Web Security Workshop
+# Activity: Django Web Security Lab
 ## Instructions:
 
 1. Fork the provided repository with this insecure Django application.
